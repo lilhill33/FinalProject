@@ -11,4 +11,4 @@ Link to the google doc - https://docs.google.com/document/d/1CnmQaOQuAmm3fyppU2B
 
 Link to Sebastians Chanel (Graphics tutorials) - https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ
 
-![project planning](https://ibb.co/cg3ZG7)
+[![IMG_0945.jpg](https://s18.postimg.cc/n85htbkyx/IMG_0945.jpg)](https://postimg.cc/image/4sl0vx6ud/)
