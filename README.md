@@ -11,4 +11,4 @@ Link to the google doc - https://docs.google.com/document/d/1CnmQaOQuAmm3fyppU2B
 
 Link to Sebastians Chanel (Graphics tutorials) - https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ
 
-![Use Case Diagram](https://ibb.co/cg3ZG7)
+![project planning](https://ibb.co/cg3ZG7)
