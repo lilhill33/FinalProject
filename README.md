@@ -15,4 +15,6 @@ Link to Sebastians Chanel (Graphics tutorials) - https://www.youtube.com/channel
 
 Link to video presentation - https://drive.google.com/file/d/1ZmqU1cMps_ypcTJRU0XpCSFycg3fcgMF/view?usp=sharing
 
+Link to the build file of the project - https://drive.google.com/file/d/1HtdIcPOaGO6SSyQHuK83NBRmlXCrwd_J/view?usp=sharing
+
 Bryan Hill, Quinn Rydland, Matt McCarthy, Billy Neely, Kartik Sharma
