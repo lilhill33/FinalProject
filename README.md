@@ -13,4 +13,6 @@ Link to Sebastians Chanel (Graphics tutorials) - https://www.youtube.com/channel
 
 [![IMG_0945.jpg](https://s18.postimg.cc/n85htbkyx/IMG_0945.jpg)](https://postimg.cc/image/4sl0vx6ud/)
 
+Link to video presentation - https://drive.google.com/file/d/1ZmqU1cMps_ypcTJRU0XpCSFycg3fcgMF/view?usp=sharing
+
 Bryan Hill, Quinn Rydland, Matt McCarthy, Billy Neely
